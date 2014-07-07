@@ -1,0 +1,8 @@
+body {
+	padding-top: 4px;
+}
+
+.form-signup, .form-signin {
+	width: 400px;
+	margin: 0 auto;
+}

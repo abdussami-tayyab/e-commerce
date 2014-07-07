@@ -1,0 +1,3 @@
+<!--            @foreach($allCats as $cat)
+                <option value='{{ $cat->catName }}' name='{{ $cat->catName }}'>{{ $cat->catName }}</option> 
+            @endforeach-->
